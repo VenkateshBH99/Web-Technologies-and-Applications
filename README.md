@@ -9,5 +9,5 @@
   * Sort the hotels according to rating.
   * Big Offers
   * Airport and Tourist spots nearby
-  * Features of Htels
+  * Features of Hotels
   * Reviews from customers
